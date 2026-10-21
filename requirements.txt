@@ -1,0 +1,7 @@
+strands-agents[litellm]==1.61.1
+litellm==1.106.1
+google-api-python-client==2.201.0
+google-auth==2.62.0
+google-auth-oauthlib==1.5.0
+slack_sdk==3.45.0
+python-dotenv==1.2.4

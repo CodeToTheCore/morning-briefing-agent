@@ -1,6 +1,16 @@
+# Secrets: never commit these
 .env
-.venv/
 token.json
 credentials.json
+credientials.json
+client_secret*.json
+
+# Saved briefings contain your real email and Slack content
+briefings/
+briefing_output.txt
+
+# Python
+.venv/
 __pycache__/
 *.pyc
+.pytest_cache/
